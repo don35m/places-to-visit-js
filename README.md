@@ -1,18 +1,17 @@
-# _Address Book JS_
+# _Places I Visited JS_
 
-##### _App in JavaScript similar to an address book, 9/11/15_
+##### _App in JavaScript showing places I want to visit, 9/14/15_
 
 #### By _**Don Schemmel**_
 
 ## Description
 
-_App lets user enter a name and address for multiple people. If person has multiple
-addresses it also lets you add them for that contact._
+_App lets user enter a place they want to visit. App lets user set a time when they visit, landmarks, and location.Then display those properties when a user clicks on each place._
 
 ## Setup
 
 * _Clone Repository_
-* _Open address-book-js in web browser_
+* _Open places-js in web browser_
 
 ## Technologies Used
 
